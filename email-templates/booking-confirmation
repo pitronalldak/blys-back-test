@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Blys</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr" style="background-color: #f5f5f5; margin: 0; padding: 70px 0 70px 0; -webkit-text-size-adjust: none !important; width: 100%;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+						<div id="template_header_image">
+							<p style="margin-top: 0;"><img src="https://getblys.com.au/wp-content/uploads/2016/03/blys-logo.png" alt="Blys" style="border: none; display: inline; font-size: 14px; font-weight: bold; height: auto; line-height: 100%; outline: none; text-decoration: none; text-transform: capitalize;"></p>						</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="box-shadow: 0 1px 4px rgba(0,0,0,0.1) !important; background-color: #fdfdfd; border: 1px solid #dcdcdc; border-radius: 3px !important;">
+<tr>
+<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #6366e4; border-radius: 3px 3px 0 0 !important; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block;">
+												<h1 style='color: #ffffff; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #8285e9; -webkit-font-smoothing: antialiased;'>Thank you for your booking.</h1>
+											</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #fdfdfd;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 48px;">
+															<div id="body_content_inner" style='color: #737373; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+<p style="margin: 0 0 16px;">We just received your booking request - we are onto it!</p>
+
+<p style="margin: 0 0 16px;">You can find the details of your booking at the bottom of this email.</p>
+
+<p style="margin: 0 0 16px;"><strong>What's Next?</strong></p>
+
+<p style="margin: 0 0 16px;"><strong>1. Wait for your booking confirmation SMS</strong></p>
+
+<p style="margin: 0 0 16px;">We will assign your booking to the first available therapist, and send you a confirmation SMS when done.</p>
+
+<p style="margin: 0 0 16px;"><strong>2. Relax and enjoy your massage</strong></p>
+
+<p style="margin: 0 0 16px;">Your therapist will arrive at your home or hotel 10 minutes before your appointment - and will have everything required for a perfect massage: professional massage table, essential oils, clean linen and towels, soothing music and the best hands in the business!</p>
+
+<p style="margin: 0 0 16px;"><strong>3. Spread the love to get a Free Massage</strong></p>
+
+<p style="margin: 0 0 16px;">Refer a friend to Blys, and you both get $10 off your next booking. That's 1 free massage for every 10 friend you refer!</p>
+
+<p style="margin: 0 0 16px;">Visit <a href="https://getblys.com.au/invite">https://getblys.com.au/invite</a> for details.</p>
+
+<p style="margin: 0 0 16px;">A few things to note:</p>
+
+<p style="margin: 0 0 16px;">We will always try to assign your booking to your preferred therapist first. If your preferred therapist is not available, then your booking will be assigned to the first available therapist.
+If we don't have any therapists available for the time & location of your booking, we will get in touch with you to organise an alternative time for your booking.</p>
+
+<p style="margin: 0 0 16px;">We look forward to seeing you :)</p>
+
+The Blys Team<br>
+<a href="mailto:hello@getblys.com">hello@getblys.com</a><br>
+(02) 9389 8640
+
+<br><br>
+<table style="width:100%; border: 1px solid #e4e4e4; border-collapse: collapse;">
+	<thead>
+		<th style="border: 1px solid #e4e4e4; padding: 8px;">Booking</th>
+		<th style="border: 1px solid #e4e4e4; padding: 8px;">Price</th>
+	</thead>
+	<tbody>
+<tr><td style="border: 1px solid #e4e4e4; padding: 8px;">{{bookingDescription}}</td><td style="border: 1px solid #e4e4e4; padding: 8px;">{{bookingPrice}}</td></tr>
+<tr><td style="border: 1px solid #e4e4e4; padding: 8px;"><strong>Payment Method: </strong></td><td style="border: 1px solid #e4e4e4; padding: 8px;">{{paymentMethod}}</td></tr>
+<tr><td style="border: 1px solid #e4e4e4; padding: 8px;"><strong>Total: </strong></td><td style="border: 1px solid #e4e4e4; padding: 8px;">{{total}}</td></tr>
+
+
+
+	</tbody>
+</table>
+
+
+
+
+
+<h2 style='color: #6366e4; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 16px 0 8px; text-align: left;'>Contact details</h2>
+<p style="margin: 0 0 16px;">
+
+	<br>
+
+<table style="width:75%">
+<tr><td><strong>Email:</strong></td><td><a href="mailto:{{email}}">{{email}}</a></td></tr>
+<tr><td><strong>Tel:</strong></td><td>{{mobile}}</td></tr>
+
+</table>
+
+</p>
+															</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style="padding: 0 48px 48px 48px; -webkit-border-radius: 6px; border: 0; color: #a1a3ef; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center;">
+															<p>The Blys Team<br>
+(02) 9389 8640<br>
+hello@getblys.com</p>
+														</td>
+													</tr></table>
+</td>
+										</tr></table>
+<!-- End Footer -->
+</td>
+							</tr>
+</table>
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
